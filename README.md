@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mronfire or Mario. Welcome to my GitHub.
-- 👀 I’m interested in all things computers, more specifically AI and ML topics.
-- 🌱 I'm currently working at General Motors as a Software Developer for our AI/ML team.
-- 💞️ I’m looking to collaborate on open source projects or any other projects anyone needs assistance with.
-- 📫 How to reach me ...
+Hello 👋 Welcome to my channel! Here, you’ll find tutorials on Java programming, Akka, and more. I’m passionate about sharing my knowledge with others and helping them learn new skills. Whether you’re a beginner or an experienced programmer, I’m here to help you take your skills to the next level. So, if you’re ready to learn, let’s get started!
 
 <!---
 JavaD0j0/JavaD0j0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
